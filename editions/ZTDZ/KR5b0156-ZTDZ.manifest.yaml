@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5b0156/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5b0156/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 洪恩靈濟真君集福晚朝儀
+  date: '2015-08-29 00:12:04.465229'
+  source:
+    repository: kanripo
+    path: KR5b0156
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5b0156_000-ZTDZ.yaml, hash: 'sha256:94fd76ab1344ec3e7f5f43ddcafea73ece47999e70729447d8b7fe3e22435284'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5b0156_000-ZTDZ.markers.yaml, hash: 'sha256:049f191e54ef0f12a6854a73fdbe51e6f0755e900e7a1e1739560f8de57c6e87'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5b0156_SJB_000-090018b
+    span:
+    - body
+    - 0
+    - 2110
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:9b3ff8c441a73b4edca35cf950d3cead46a03889828951c4ec6fd60395a3ac31
